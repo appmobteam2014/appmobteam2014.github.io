@@ -1,0 +1,8 @@
+HUBUNGI KAMI 
+<section class="page-footer">
+  <h1 class="project-name">{{ site.title }}</h1>
+  <h2 class="project-tagline">{{ site.tagline }}</h2>
+  <a href="http://sif.uin-suska.ac.id/" class="btn">SISTEM INFORMASI</a>
+  <a href="#" class="btn">About Us</a>
+  <a href="#" class="btn">HUBUNGI KAMI</a>
+</section>
